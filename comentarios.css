@@ -67,7 +67,7 @@ span {
 }
 
 .container {
-    background-color: #390D02;
+    background-color: #D21617;
    
 }
 
@@ -77,7 +77,7 @@ span {
     grid-template-columns: repeat(3, 1fr);
     row-gap: 20px;
     column-gap: 40px;
-    background-color: #390D02;
+    background-color: #D21617;
     margin: auto;
 }
 
